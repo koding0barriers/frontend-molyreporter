@@ -1,0 +1,22 @@
+# Build and Release Folders
+bin-debug/
+bin-release/
+[Oo]bj/
+[Bb]in/
+
+# Other files and folders
+.settings/
+node_modules/
+.next/
+out/
+build/
+generated/
+package-lock.json
+yarn.lock
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+*.env
